@@ -1,20 +1,3 @@
-### Project Structure and Contents
-
-1. **Source Code Files**
-   - `os_phase2_final.c`: The main C source code file for Phase 2 of the project.
-   - `Phase1_new.cpp`: The C++ source code file for Phase 1 of the project.
-
-2. **Executable and Object Files**
-   - `os_phase2_final.exe` and `os_phase2_final.o`: Executable and object files generated after compiling `os_phase2_final.c`.
-   - `Phase1_new.exe` and `Phase1_new.o`: Executable and object files generated after compiling `Phase1_new.cpp`.
-
-3. **Input and Output Files**
-   - `input1.txt` and `i2.txt`: Likely input files that are fed into the program to test functionality in different phases.
-   - `output1.txt` and `o2.txt`: Corresponding output files produced by the program, which help verify that the code is functioning as expected.
-
-4. **Documentation**
-   - `CP_PPT_G14.pdf`: A PowerPoint presentation, likely containing an overview, objectives, and explanations of the project's phases.
-
 # Multiprogramming Operating System
 
 ### Description
